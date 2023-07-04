@@ -1410,7 +1410,7 @@ function randomCircleData(numPoints) {
           },
           {
             name: "6B. Vector size",
-            min: 5,
+            min: 105,
             max: 305,
             start: 305
             ,step: 50
